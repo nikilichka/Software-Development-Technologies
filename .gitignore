@@ -1,0 +1,4 @@
+# Ignore CSV data files
+*.csv
+
+cleaned_data.csv
